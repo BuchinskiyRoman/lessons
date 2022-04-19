@@ -8,6 +8,8 @@ public class helloWorld {
         String name = scanner.next();
         System.out.println("Твоё имя: "+ name);
 
+        System.out.println("Hello");
+
 
 
 
